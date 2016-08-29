@@ -1,0 +1,7 @@
+os
+S_ISDIR
+default_stat
+platform
+DirectorySnapshotDiff
+errno
+DirectorySnapshot

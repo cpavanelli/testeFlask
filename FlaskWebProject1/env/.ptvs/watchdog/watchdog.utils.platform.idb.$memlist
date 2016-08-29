@@ -1,0 +1,12 @@
+is_darwin
+__platform__
+PLATFORM_DARWIN
+PLATFORM_WINDOWS
+PLATFORM_BSD
+is_bsd
+is_windows
+PLATFORM_LINUX
+is_linux
+get_platform_name
+PLATFORM_UNKNOWN
+sys

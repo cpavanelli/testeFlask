@@ -1,0 +1,11 @@
+text_type
+BytesIO
+inspect
+getargspec_permissive
+_PrimitiveOrderedDict
+getargspec
+StringIO
+binary_type
+OrderedDict
+io
+sys

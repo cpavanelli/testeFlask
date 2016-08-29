@@ -1,0 +1,13 @@
+is_class_private_name
+optionflags
+name
+echo_class
+inspect
+echo
+is_classmethod
+doctest
+echo_module
+method_name
+echo_instancemethod
+format_arg_value
+sys

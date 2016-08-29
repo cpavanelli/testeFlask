@@ -1,0 +1,5 @@
+get_html_theme_path
+__version_full__
+VERSION
+__version__
+os

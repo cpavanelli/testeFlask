@@ -1,0 +1,7 @@
+livereload
+mock
+call
+DEFAULT_IGNORE_REGEX
+pytest
+main
+observers

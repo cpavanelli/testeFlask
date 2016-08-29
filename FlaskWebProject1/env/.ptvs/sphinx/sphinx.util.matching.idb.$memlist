@@ -1,0 +1,6 @@
+patmatch
+_translate_pattern
+re
+patfilter
+_pat_cache
+compile_matchers

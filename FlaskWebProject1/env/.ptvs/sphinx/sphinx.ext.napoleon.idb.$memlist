@@ -1,0 +1,12 @@
+PY2
+Config
+sphinx
+docstring
+iterators
+iteritems
+_process_docstring
+GoogleDocstring
+_skip_member
+setup
+sys
+NumpyDocstring

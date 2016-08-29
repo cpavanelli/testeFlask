@@ -1,0 +1,17 @@
+_xref_regex
+_directive_regex
+_google_section_regex
+GoogleDocstring
+range
+_numpy_section_regex
+_google_typed_arg_regex
+_bullet_list_regex
+inspect
+NumpyDocstring
+_enumerated_list_regex
+u
+re
+collections
+UnicodeMixin
+string_types
+modify_iter

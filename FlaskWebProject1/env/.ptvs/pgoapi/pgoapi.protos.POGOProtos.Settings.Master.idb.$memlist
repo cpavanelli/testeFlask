@@ -1,0 +1,17 @@
+PlayerLevelSettings_pb2
+GymBattleSettings_pb2
+MoveSequenceSettings_pb2
+BadgeSettings_pb2
+TypeEffectiveSettings_pb2
+PokemonUpgradeSettings_pb2
+IapSettings_pb2
+ItemSettings_pb2
+EquippedBadgeSettings_pb2
+GymLevelSettings_pb2
+PokemonSettings_pb2
+EncounterSettings_pb2
+IapItemDisplay_pb2
+CameraSettings_pb2
+Item
+Pokemon
+MoveSettings_pb2

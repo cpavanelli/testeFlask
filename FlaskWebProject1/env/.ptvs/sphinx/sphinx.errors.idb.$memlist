@@ -1,0 +1,9 @@
+ExtensionError
+PycodeError
+ConfigError
+traceback
+SphinxError
+SphinxWarning
+VersionRequirementError
+SphinxParallelError
+ThemeError

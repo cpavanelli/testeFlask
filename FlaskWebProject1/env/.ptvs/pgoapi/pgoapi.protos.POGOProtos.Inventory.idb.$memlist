@@ -1,0 +1,13 @@
+InventoryItemData_pb2
+AppliedItems_pb2
+EggIncubatorType_pb2
+AppliedItem_pb2
+InventoryUpgrades_pb2
+EggIncubator_pb2
+InventoryUpgradeType_pb2
+Candy_pb2
+InventoryUpgrade_pb2
+InventoryItem_pb2
+EggIncubators_pb2
+Item
+InventoryDelta_pb2

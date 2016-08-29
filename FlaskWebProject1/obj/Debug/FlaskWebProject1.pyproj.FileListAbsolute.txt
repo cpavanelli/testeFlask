@@ -1,0 +1,15 @@
+D:\Development\FlaskWebProject1\FlaskWebProject1\bin\Microsoft.PythonTools.WebRole.dll
+D:\Development\FlaskWebProject1\FlaskWebProject1\obj\Debug\attach_server.py
+D:\Development\FlaskWebProject1\FlaskWebProject1\obj\Debug\visualstudio_py_debugger.py
+D:\Development\FlaskWebProject1\FlaskWebProject1\obj\Debug\visualstudio_py_repl.py
+D:\Development\FlaskWebProject1\FlaskWebProject1\obj\Debug\visualstudio_py_util.py
+D:\Development\FlaskWebProject1\FlaskWebProject1\obj\Debug\__init__.py
+D:\Development\FlaskWebProject1\FlaskWebProject1\obj\Debug\__main__.py
+D:\Development\FlaskWebProject1\FlaskWebProject1\bin\AzureSetup.cfg
+D:\Development\FlaskWebProject1\FlaskWebProject1\bin\Microsoft.PythonTools.AzureSetup.exe
+D:\Development\FlaskWebProject1\FlaskWebProject1\bin\Microsoft.PythonTools.AzureSetup.exe.config
+D:\Development\FlaskWebProject1\FlaskWebProject1\bin\wfastcgi.py
+D:\Development\FlaskWebProject1\FlaskWebProject1\obj\Debug\deployment-updated-orig-prefix.txt
+D:\Development\FlaskWebProject1\FlaskWebProject1\ptvs_virtualenv_proxy.py
+D:\Development\FlaskWebProject1\FlaskWebProject1\obj\Debug\web.config
+D:\Development\FlaskWebProject1\FlaskWebProject1\obj\Debug\web.debug.config

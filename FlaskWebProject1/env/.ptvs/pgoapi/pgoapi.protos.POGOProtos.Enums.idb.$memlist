@@ -1,0 +1,17 @@
+CameraInterpolation_pb2
+Gender_pb2
+ItemCategory_pb2
+CameraTarget_pb2
+TutorialState_pb2
+PokemonRarity_pb2
+PokemonMove_pb2
+TeamColor_pb2
+ActivityType_pb2
+IapItemCategory_pb2
+PokemonMovementType_pb2
+PokemonType_pb2
+BadgeType_pb2
+PokemonFamilyId_pb2
+Platform_pb2
+PokemonId_pb2
+ItemEffect_pb2

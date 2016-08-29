@@ -1,0 +1,17 @@
+_idpattern
+path
+QtHelpBuilder
+posixpath
+force_decode
+project_template
+collection_template
+nodes
+addnodes
+StandaloneHTMLBuilder
+codecs
+htmlescape
+re
+text_type
+section_template
+os
+file_template

@@ -1,0 +1,8 @@
+DownloadSettingsAction_pb2
+LevelSettings_pb2
+FortSettings_pb2
+Master
+GpsSettings_pb2
+GlobalSettings_pb2
+InventorySettings_pb2
+MapSettings_pb2

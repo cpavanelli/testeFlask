@@ -1,0 +1,11 @@
+LoggerTrick
+PatternMatchingEventHandler
+os
+time
+echo
+subprocess
+AutoRestartTrick
+signal
+ShellCommandTrick
+Trick
+has_attribute

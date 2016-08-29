@@ -1,0 +1,16 @@
+sys
+_sym_db
+_REQUESTENVELOPE_AUTHINFO
+_REQUESTENVELOPE_AUTHINFO_JWT
+_message
+_symbol_database
+RequestEnvelope
+_descriptor
+POGOProtos_dot_Networking_dot_Envelopes_dot_Unknown6__pb2
+descriptor_pb2
+POGOProtos_dot_Networking_dot_Envelopes_dot_AuthTicket__pb2
+POGOProtos_dot_Networking_dot_Requests_dot_Request__pb2
+_reflection
+DESCRIPTOR
+_b
+_REQUESTENVELOPE

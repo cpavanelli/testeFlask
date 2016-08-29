@@ -1,0 +1,15 @@
+_INVENTORYUPGRADETYPE
+enum_type_wrapper
+_b
+INCREASE_ITEM_STORAGE
+sys
+UPGRADE_UNSET
+_reflection
+descriptor_pb2
+_descriptor
+_symbol_database
+_sym_db
+INCREASE_POKEMON_STORAGE
+InventoryUpgradeType
+_message
+DESCRIPTOR

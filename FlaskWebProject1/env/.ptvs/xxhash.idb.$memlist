@@ -1,0 +1,8 @@
+VERSION
+XXHASH_VERSION
+__doc__
+__file__
+__name__
+__package__
+xxh32
+xxh64

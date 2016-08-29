@@ -1,0 +1,15 @@
+_POKEMONRARITY
+enum_type_wrapper
+_b
+POKEMON_RARITY_LEGENDARY
+sys
+POKEMON_RARITY_NORMAL
+_reflection
+descriptor_pb2
+_descriptor
+_symbol_database
+_sym_db
+PokemonRarity
+POKEMON_RARITY_MYTHIC
+_message
+DESCRIPTOR

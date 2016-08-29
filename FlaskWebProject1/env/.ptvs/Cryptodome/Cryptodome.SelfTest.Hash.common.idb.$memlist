@@ -1,0 +1,15 @@
+Cryptodome
+HashSelfTest
+strxor_c
+binascii
+b
+GenericHashConstructorTest
+MACSelfTest
+tobytes
+make_mac_tests
+HashDigestSizeSelfTest
+make_hash_tests
+HashDocStringTest
+HashTestOID
+sys
+unittest

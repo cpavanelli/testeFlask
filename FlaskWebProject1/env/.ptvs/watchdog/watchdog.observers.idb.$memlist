@@ -1,0 +1,14 @@
+fsevents
+inotify_c
+api
+UnsupportedLibc
+winapi
+warnings
+fsevents2
+kqueue
+Observer
+inotify
+inotify_buffer
+platform
+read_directory_changes
+polling

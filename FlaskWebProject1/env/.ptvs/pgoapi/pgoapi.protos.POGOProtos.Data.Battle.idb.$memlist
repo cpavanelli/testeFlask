@@ -1,0 +1,8 @@
+BattleState_pb2
+BattlePokemonInfo_pb2
+BattleLog_pb2
+BattleActionType_pb2
+BattleResults_pb2
+BattleAction_pb2
+BattleType_pb2
+BattleParticipant_pb2

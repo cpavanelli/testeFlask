@@ -1,0 +1,6 @@
+test_no_ignore
+TestWatcher
+TestBuilder
+SphinxBuilder
+test_regex
+test_fnmatch

@@ -1,0 +1,17 @@
+sys
+_sym_db
+VICTORY
+BattleState
+ACTIVE
+enum_type_wrapper
+_reflection
+_message
+STATE_UNSET
+_symbol_database
+_descriptor
+descriptor_pb2
+_BATTLESTATE
+DESCRIPTOR
+DEFEATED
+TIMED_OUT
+_b

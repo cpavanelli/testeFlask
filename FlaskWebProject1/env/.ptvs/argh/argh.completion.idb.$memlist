@@ -1,0 +1,7 @@
+logger
+COMPLETION_ENABLED
+__all__
+logging
+autocomplete
+os
+argcomplete
